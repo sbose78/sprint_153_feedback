@@ -63,30 +63,6 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>org.kitesdk</groupId>
-            <artifactId>kite-hbase-cdh5-test-dependencies</artifactId>
-            <version>1.1.0</version>
-            <scope>provided</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.kitesdk</groupId>
-            <artifactId>kite-hadoop-cdh5-dependencies</artifactId>
-            <version>1.1.0</version>
-            <scope>provided</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.kitesdk</groupId>
-            <artifactId>kite-hbase-cdh5-dependencies</artifactId>
-            <version>1.1.0</version>
-            <scope>provided</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.kitesdk</groupId>
-            <artifactId>kite-hadoop-cdh5-test-dependencies</artifactId>
-            <version>1.1.0</version>
-            <scope>provided</scope>
-        </dependency>
-        <dependency>
             <groupId>com.beust</groupId>
             <artifactId>jcommander</artifactId>
             <version>1.72</version>
